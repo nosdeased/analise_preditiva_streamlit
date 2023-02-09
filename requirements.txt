@@ -1,1 +1,1 @@
-pip install pandas-datareader
+import pandas_datareader
