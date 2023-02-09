@@ -1,1 +1,1 @@
-import pandas_datareader
+pandas-datareader == 0.10.0
