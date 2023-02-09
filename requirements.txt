@@ -1,2 +1,2 @@
-pip install --upgrade pip
+pip-upgrade
 pip install pandas-datareader
